@@ -12,7 +12,7 @@ export const contact = [
         alt: "Twitter",
     },
     {
-        path: "https://drive.google.com/file/d/1Gskl5ulT8v_JUIYlHy3Oewk9jTDC5zkI/view?usp=sharing",
+        path: "https://drive.google.com/file/d/1xywlWyQ6Kl7XKsUO07KfYrllno82wN97/view?usp=sharing",
         alt: "Resume",
     },
 ]
