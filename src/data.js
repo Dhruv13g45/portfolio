@@ -26,7 +26,7 @@ export const ProjectInfo = [
         repoLink: "https://github.com/Dhruv13g45/EcommerceStore",
         path: "",
         alt: "Grab-Z-Lit E-commerce Store",
-    }
+    },
     {
         id: 2,
         prjDiscription: "This Weather App was built using <b>React JS</b> and <b>Open Weather API</b>. Building this project helped me to gain confidence on using APi and <b>Fetching and arranging the data</b> for a seamless look and better understandability of the data.Used <b>Tailwind CSS</b> to style it up and makt it reponsive to any width",
