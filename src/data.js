@@ -40,7 +40,7 @@ export const ProjectInfo = [
         prjDiscription: "The Todo React App, although a basic app but it was built to understand the flow of data from component to component and understand <b>Conditional Rendering</b>. This Projects was made using <b>Context API</b> and <b>Custom Hooks.(Internally using useState Hook)</b> with a additon of <b>LocalStorage</b> . I learnt how to create Custom Hooks and how can the code be more <b>Effective and Performance Optimized</b>.Used <b>Tailwind CSS</b> to style it up and makt it reponsive to any width",
         live: "https://todo-app-repo-hazel.vercel.app/",
         repoLink: "https://github.com/Dhruv13g45/todo-app-repo",
-        path: "https://miro.medium.com/v2/resize:fit:1400/0*rgxBZQVyrT1iiLIA.png",
+        path: "https://private-user-images.githubusercontent.com/126545959/386635626-fd4cc4da-da4c-4205-9c8f-f8ca14866b0e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2ODA2NjIsIm5iZiI6MTczMTY4MDM2MiwicGF0aCI6Ii8xMjY1NDU5NTkvMzg2NjM1NjI2LWZkNGNjNGRhLWRhNGMtNDIwNS05YzhmLWY4Y2ExNDg2NmIwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExNVQxNDE5MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hOTMwMWI2OThmZTcyZTg3YzY5Y2I4YmNjOWExOTMxZDhmMWY3ZDkzMGFhODM5YTYxNzQ5ZmVmOTExMDBlNmJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.z_s8vFvWg1sSMBBa7NmSpPvS3L-EyZfLfBPwBXTs-Nk",
         alt: "React Todo App",
     },
     {
