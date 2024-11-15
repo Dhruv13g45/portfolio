@@ -21,7 +21,7 @@ export const contact = [
 export const ProjectInfo = [
     {
         id: 1,
-        prjDiscription: "Grab-Z-Lit is a project which offers a dynamic shopping experience built in React.js, ReduxToolkit, React Router, Tailwind CSS, React Toasts and Fake Store API.This project allows one for Product Browsing & Categorization, Wishlist & Cart Management, Product Review System, Order History and Real-Time Notifications. The key learnings from this project were State Management through Redux Toolkit, API integration Performance Optimization and Responsive Design.",
+        prjDiscription: "Grab-Z-Lit is a project which offers a dynamic shopping experience built in <b>React.js, ReduxToolkit, React Router, Tailwind CSS, React Toasts and Fake Store API</b>.This project allows one for <b>Product Browsing & Categorization, Wishlist & Cart Management, Product Review System, Order History and Real-Time Notifications</b>. The key learnings from this project were <b>State Management through Redux Toolkit, API integration Performance Optimization and Responsive Design</b>.",
         live: "https://grabzlit-ecommerce-store.vercel.app/",
         repoLink: "https://github.com/Dhruv13g45/EcommerceStore",
         path: "",
