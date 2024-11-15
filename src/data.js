@@ -32,7 +32,7 @@ export const ProjectInfo = [
         prjDiscription: "This Weather App was built using <b>React JS</b> and <b>Open Weather API</b>. Building this project helped me to gain confidence on using APi and <b>Fetching and arranging the data</b> for a seamless look and better understandability of the data.Used <b>Tailwind CSS</b> to style it up and makt it reponsive to any width",
         live: "https://weather-react-app-sigma-bice.vercel.app/",
         repoLink: "https://github.com/Dhruv13g45/Weather-react-app",
-        path: "https://www.sketchappsources.com/resources/source-image/weather-app-icons.jpg",
+        path: "https://private-user-images.githubusercontent.com/126545959/386635319-dbbe1044-2355-4c2d-8c3d-2db64b0864a3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2ODA2ODQsIm5iZiI6MTczMTY4MDM4NCwicGF0aCI6Ii8xMjY1NDU5NTkvMzg2NjM1MzE5LWRiYmUxMDQ0LTIzNTUtNGMyZC04YzNkLTJkYjY0YjA4NjRhMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExNVQxNDE5NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iODA0YmE5YjhiNzIzNWQ5YWEzNWYyZWI5YjM3NmE2OGNkMzdlMzg4YjNjN2I3OTgxYzRmZTg3NGFhOWZlMWZiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.G-4Kam6oZClN5abQ07eSQcPAOuI1zCJpRV0fnQpbceg",
         alt: "React Weather Project",
     },
     {
