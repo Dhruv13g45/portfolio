@@ -24,7 +24,7 @@ export const ProjectInfo = [
         prjDiscription: "Grab-Z-Lit is a project which offers a dynamic shopping experience built in <b>React.js, ReduxToolkit, React Router, Tailwind CSS, React Toasts and Fake Store API</b>.This project allows one for <b>Product Browsing & Categorization, Wishlist & Cart Management, Product Review System, Order History and Real-Time Notifications</b>. The key learnings from this project were <b>State Management through Redux Toolkit, API integration Performance Optimization and Responsive Design</b>.",
         live: "https://grabzlit-ecommerce-store.vercel.app/",
         repoLink: "https://github.com/Dhruv13g45/EcommerceStore",
-        path: "https://github-production-user-asset-6210df.s3.amazonaws.com/126545959/386632272-fcc8fbe3-439a-4fff-b2bc-672c83b09cf1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241115T140934Z&X-Amz-Expires=300&X-Amz-Signature=1408cf6f910a0456726f9fbdb13d92d5a30965ecffee228f4684c93c65f4e3d2&X-Amz-SignedHeaders=host",
+        path: "https://github-production-user-asset-6210df.s3.amazonaws.com/126545959/386638623-a123e1cb-fbb5-4330-ae2e-821d2ed03321.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241115T142926Z&X-Amz-Expires=300&X-Amz-Signature=0446a06b5d907b1755a5314fd77c3f737ded8a0361eedd66119a5829cb4661ff&X-Amz-SignedHeaders=host",
         alt: "Grab-Z-Lit E-commerce Store",
     },
     {
