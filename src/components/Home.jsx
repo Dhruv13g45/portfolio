@@ -7,6 +7,7 @@ import {
   FiPenTool,
 } from "react-icons/fi";
 import { contact } from "../data.js";
+import { NavLink } from "react-router-dom";
 
 const resumeLink = contact.find((item) => item.alt === "Resume").path;
 
@@ -25,9 +26,9 @@ const Home = () => {
             ideas into fast, intelligent, and reliable digital experiences.
           </p>
           <div className="button-row">
-            <a href="/projects" className="button-primary">
+            <NavLink to="/projects" className="button-primary">
               Explore selected work <FiArrowUpRight />
-            </a>
+            </NavLink>
             <a
               href={resumeLink}
               className="button-ghost"
