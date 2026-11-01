@@ -17,6 +17,7 @@ export const contact = [
   },
 ];
 
+console.log(contact);
 export const ProjectInfo = [
   {
     id: 1,
@@ -37,3 +38,5 @@ export const ProjectInfo = [
     stack: "Full-stack web app · Product engineering",
   },
 ];
+
+console.log(ProjectInfo);
